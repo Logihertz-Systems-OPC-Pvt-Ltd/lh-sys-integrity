@@ -1,0 +1,9 @@
+Package: lh-sys-integrity
+Version: 0.1.0
+Section: utils
+Priority: optional
+Architecture: all
+Maintainer: Sameer Tawade <ops@logihertz.com>
+Homepage: https://www.logihertz.com
+Description: lh-sys - Merkle Tree Binary Hash Verification & Rootkit Delta
+ Cryptographic File Integrity Monitoring (FIM) and host baseline verification engine computing SHA-256 Merkle/manifest baselines over /bin, /sbin, and /etc to detect rootkits and unauthorized drift.
